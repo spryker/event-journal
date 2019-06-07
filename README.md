@@ -2,6 +2,8 @@
 
 This module is deprecated.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
