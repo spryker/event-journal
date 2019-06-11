@@ -1,6 +1,8 @@
 # EventJournal Module
 
-This module is deprecated.
+Event Journal functionality.
+
+**DEPRECATED - This module is not continued at this point.**
 
 ## Installation
 
